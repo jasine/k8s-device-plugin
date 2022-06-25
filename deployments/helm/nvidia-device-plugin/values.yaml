@@ -109,3 +109,4 @@ nfd:
 gfd:
   enabled: false
   nameOverride: gpu-feature-discovery
+  namespaceOverride: ""
